@@ -1,5 +1,5 @@
 #! /bin/bash
-
+rm -r fol_1 fol_2
 echo  >>.gitignore
 mkdir fol_1
 cd fol_1
